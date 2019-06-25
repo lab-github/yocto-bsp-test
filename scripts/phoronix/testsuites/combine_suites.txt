@@ -63,3 +63,4 @@ sqlite
 unpack-linux
 sockperf
 encode-flac
+go-benchmark
